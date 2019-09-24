@@ -17,14 +17,14 @@
     "metadata": {
         "name": "testing",
         "selfLink": "/api/v1/namespaces/testing",
-        "uid": "33074e57-cb72-11e5-9d3d-28d2444e470d",
+        "uid": "5801a249-747d-45d8-9959-0d97479e0f80",
         "resourceVersion": "234",
-        "creationTimestamp": "2016-02-04T19:05:04Z",
-        "deletionTimestamp": "2016-02-04T19:05:54Z"
+        "creationTimestamp": "2019-06-03T12:00:00Z",
+        "deletionTimestamp": "2019-06-03T12:05:00Z"
     },
     "spec": {
         "finalizers": [
-            "openshift.io/org"  <--- remove me
+            "vendor/product"  <--- remove me
         ]
     },
     "status": {
